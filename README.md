@@ -15,3 +15,9 @@ This repository contains the necessary files to build a new device; model files 
 The device can be used in multi-touch tabletops to provide vibrotactile sensation according to materials displayed with different textures. Different sensations can also be provided in VR, from enriched textures to tactile effects for collisions in mini-games supporting hand-tracking, and vibration patterns to notify contact with dangerous objects (i.e., hand getting too close to the fire).
 
 <p align="center"><img src="Media/demos.png" width="50%"></p>
+
+Ring-shaped Haptic Device with Vibrotactile Feedback Patterns to Support Natural Spatial Interaction
+O Ariza, Paul Lubos, Frank Steinicke, Gerd Bruder
+International Conference on Artificial Reality and Telexistence (Eurographics)
+2015
+
