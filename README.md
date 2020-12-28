@@ -17,7 +17,10 @@ The device can be used in multi-touch tabletops to provide vibrotactile sensatio
 <p align="center"><img src="Media/demos.png" width="50%"></p>
 
 Ring-shaped Haptic Device with Vibrotactile Feedback Patterns to Support Natural Spatial Interaction
+
 O Ariza, Paul Lubos, Frank Steinicke, Gerd Bruder
+
 International Conference on Artificial Reality and Telexistence (Eurographics)
+
 2015
 
